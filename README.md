@@ -13,12 +13,12 @@
 ➥ Fun fact: I'm a weeb!
 
 <h3 align="center"> Languages and Tools </h3>
-<a href="https://www.python.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a>
-<a href="https://heroku.com" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a>
+<a href="https://www.python.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
+<a href="https://www.mysql.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a>
+<a href="https://heroku.com" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a>
 <!--
-<a href="https://www.mongodb.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/> </a>
+<a href="https://www.mongodb.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a>
+<a href="https://www.postgresql.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/> </a>
 -->
 
 <h3 align="center"> My Github Stats </h3>
@@ -37,5 +37,5 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="50" width="200"/></a>
 https://simpleicons.org/
 https://github-readme-streak-stats.herokuapp.com/demo/
-Jolly, green_nur.
+Jolly
 -->
