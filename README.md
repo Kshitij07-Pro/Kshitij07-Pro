@@ -24,7 +24,7 @@
 <h3 align="center"> My Github Stats </h3>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
 
-<h4 align="left"> You can find me on:- </h4>
+<h4 align="left"> You can find me on :D </h4>
 <a href="https://github.com/Kshitij07-Pro" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/github.svg" height="40" width="40"/></a>
 <a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/telegram.svg" height="40" width="40"/></a>
 <a href="https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/spotify.svg" height="40" width="40"/></a>
