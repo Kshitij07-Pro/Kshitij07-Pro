@@ -22,7 +22,11 @@
 -->
 
 <h3 align="center"> My Github Stats </h3>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&layout=compact&hide_border=false&langs_count=10&theme=jolly&include_all_commits=true&count_private=true">
+</p>
 
 <h4 align="left"> You can find me on :D </h4>
 <a href="https://github.com/Kshitij07-Pro" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/github.svg" height="40" width="40"/></a>
