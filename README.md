@@ -15,14 +15,14 @@
 
 ➥ Fun fact: I'm a weeb!
 
-### Languages and Tools 🔧
+### Languages and Tools
 <a href="https://www.python.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
 <a href="https://www.mysql.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a>
 <a href="https://www.heroku.com" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="48" height="48"/> </a>
 <a href="https://www.postgresql.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> </a>
 <a href="https://www.mongodb.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
 
-### My Github Stats 📈
+### My Github Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
