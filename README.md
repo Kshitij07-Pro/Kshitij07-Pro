@@ -1,6 +1,5 @@
-<h2 align="center">Howdy!</h2> <igm src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&height=320&text=Howdy%20Folks%21%20👋&desc=Thank%20You%20for%20taking%20the%20time%20to%20view%20my%20GitHub%20Profile%2E&textBg=false&animation=fadeIn&fontSize=40" />
 
 <a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%40xitij2049-blue.svg?logo=telegram" height="19" width="145"/></a> <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=github.com/Kshitij07-Pro&left_text=Profile%20Views&left_colour=grey&right_colour=blue" height="19" width="95"/>
 <!--
@@ -42,7 +41,6 @@
 <a href="https://steamcommunity.com/profiles/76561199166330915/" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/steam.svg" height="40" width="40"/></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/discord.svg" height="40" width="40"/></a>
 
-➥ Thank You for taking the time to ㅤㅤㅤview my GitHub Profile.
 
 <!--
 https://github.com/kyechan99/capsule-render
