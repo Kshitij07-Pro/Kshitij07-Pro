@@ -5,13 +5,11 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
 -->
 
-➥ My name is Kshitij and I’m 17 year old coding enthusiast from India.
-
-➥ I'm currently learning Python and Pyrogram while simultaneously working on Telegram Bots.
-
+About me
+➥ My name is Kshitij and I’m 17 year old self taught coder from India. I'm currently learning Python and Pyrogram while simultaneously working on Telegram Bots.
 ➥ My hobbies are Coding, Watching Anime, Movie, Web-series, Gaming and Playing Football (Neighbour Champion XD)
-
-➥ 
+➥ My speciality is that I can solve 7 different type of cubes
+List of favourite animes
 
 ## Languages and Tools
 <a href="https://www.python.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
