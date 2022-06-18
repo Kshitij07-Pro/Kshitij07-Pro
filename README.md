@@ -1,17 +1,17 @@
-<h2 align="center">Howdy!</h2> <igm src="" width="30px"/>
+<h2 align="center">Howdy!</h2> <igm src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
-<a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%40xitij2049-blue.svg?logo=telegram" height="19"/></a> <img align="center" src="https://komarev.com/ghpvc/?username=Kshitij07-Pro&label=Profile%20views&color=0e75b6&style=flat" alt="Kshitij07-Pro" height="19" width="110"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+<a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%40xitij2049-blue.svg?logo=telegram" height="19" width="145"/></a> <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=github.com/Kshitij07-Pro&left_text=Profile%20Views&left_colour=grey&right_colour=blue" height="19" width="95"/>
 <!--
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
 -->
-
-➥ I'm a student BTW
 
 ➥ I’m currently learning Python and Pyrogram
 
 ➥ I’m currently working on Telegram Bots
 
-➥ Language: English, Hindi
+➥ Languages: English, Hindi
 
 ➥ Fun fact: I'm a weeb!
 
@@ -34,7 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&theme=jolly&hide_border=false&show_owner=true" width="100%"/>
 </p>
 
-<h4 align="left"> You can find me on :) </h4>
+#### You can find me on :)
 <a href="https://github.com/Kshitij07-Pro" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/github.svg" height="40" width="40"/></a>
 <a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/telegram.svg" height="40" width="40"/></a>
 <a href="https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/spotify.svg" height="40" width="40"/></a>
@@ -42,9 +42,12 @@
 <a href="https://steamcommunity.com/profiles/76561199166330915/" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/steam.svg" height="40" width="40"/></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/discord.svg" height="40" width="40"/></a>
 
+➥ Thank You for taking the time to ㅤㅤㅤview my GitHub Profile.
 
 <!--
+https://github.com/kyechan99/capsule-render
 https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-<colour>
+https://visitor-badge.glitch.me/badge?page_id=github.com/GITHUB_USERNAME&left_text=Profile%20Views&left_colour=grey&right_colour=blue
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="50" width="200"></a>
 https://simpleicons.org/
 | <a href="URL_REDIRECT"><img align="center" src="URL_TO_YOUR_IMAGE" alt="Anurag's github stats" /></a> | <a href="URL_REDIRECT"><img align="center" src="URL_TO_YOUR_IMAGE" /></a> |
