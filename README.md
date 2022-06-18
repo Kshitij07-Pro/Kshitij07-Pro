@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%20Devs%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0" />
 
 <a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%40xitij2049-blue.svg?logo=telegram" height="19" width="145"/></a> <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=github.com/Kshitij07-Pro&left_text=Profile%20Views&left_colour=grey&right_colour=blue" height="19" width="95"/>
@@ -6,11 +5,11 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
 -->
 
-➥ I’m 17 year old coding enthusiast from India.
+➥ My name is Kshitij and I’m 17 year old coding enthusiast from India.
 
 ➥ I'm currently learning Python and Pyrogram while simultaneously working on Telegram Bots.
 
-➥ My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD)
+➥ My hobbies are Coding, Watching Anime, Movie, Web-series, Gaming and Playing Football (Neighbour Champion XD)
 
 ➥ 
 
