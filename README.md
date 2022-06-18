@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%20Folks%21%20👋&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Thank%20You%20for%20taking%20the%20time%20to%20view%20my%20GitHub%20Profile%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=fc00ff&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%20Folks%21%20👋&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Thank%20You%20for%20taking%20the%20time%20to%20view%20my%20GitHub%20Profile%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0" />
 
 <a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%40xitij2049-blue.svg?logo=telegram" height="19" width="145"/></a> <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=github.com/Kshitij07-Pro&left_text=Profile%20Views&left_colour=grey&right_colour=blue" height="19" width="95"/>
 <!--
