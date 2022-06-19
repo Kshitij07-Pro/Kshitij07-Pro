@@ -6,14 +6,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+boy+(Single%F0%9F%8C%9D);I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000)](https://git.io/typing-svg)
 
-[![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat-square&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
-[![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-14-E34A86?style=flat-square&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
-[![Mobile OS](https://img.shields.io/badge/OS-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
-[![Laptop OS](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Laptop OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Mobile Browser](https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
-[![Laptop Browser](https://img.shields.io/badge/Browser-Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
-[![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/)
+[![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
+[![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-14-E34A86?style=flat&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
+[![Mobile OS](https://img.shields.io/badge/OS-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+[![Laptop OS](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Laptop OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Mobile Browser](https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
+[![Laptop Browser](https://img.shields.io/badge/Browser-Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
+[![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698?style=flat&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/)
 
 <details>
 <summary><h3>More about me</h3></summary>
