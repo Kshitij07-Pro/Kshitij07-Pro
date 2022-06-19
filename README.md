@@ -1,15 +1,34 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%20Devs%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0" />
 
-<a href="https://t.me/xitij2049" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%40xitij2049-blue.svg?logo=telegram" height="19" width="145"/></a> <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=github.com/Kshitij07-Pro&left_text=Profile%20Views&left_colour=grey&right_colour=blue" height="19" width="95"/>
 <!--
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
 -->
 
-About me
-➥ My name is Kshitij and I’m 17 year old self taught coder from India. I'm currently learning Python and Pyrogram while simultaneously working on Telegram Bots.
-➥ My hobbies are Coding, Watching Anime, Movie, Web-series, Gaming and Playing Football (Neighbour Champion XD)
-➥ My speciality is that I can solve 7 different type of cubes
-List of favourite animes
+Hello there :wave:, My name is Kshitij and I’m 17 year old self taught coder from India who loves open source.
+
+> 
+
+<details>
+<summary><h3>More about me</h3></summary>
+➥ I'm currently learning Python and Pyrogram while simultaneously working on Telegram Bots.
+
+➥ My hobbies are Coding, Watching Anime, Movies, Web-series, Gaming and Playing Football (Neighbour Champion XD).
+
+➥ I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses:
+
+➥ List of my Favourite Top 5 Animes:-
+1. Your Lie in April
+2. Death Note
+3. Classroom of the Elite
+4. Rascal doesn't Dream of Bunny Girl Senpai
+5. Demon Slayer
+
+➥ Fun Facts:-
+- I've spent days making this ReadMe Profile.
+- I'm an early :baby_chick:
+- There are 10 types of people in the world, those who get Binary and those who don't.
+
+</details>
 
 ## Languages and Tools
 <a href="https://www.python.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
@@ -18,17 +37,28 @@ List of favourite animes
 <a href="https://www.postgresql.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> </a>
 <a href="https://www.mongodb.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
 
-## My Github Stats
+<details>
+<summary><h2>My Github Stats</h2></summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="100%"/>
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide_title=true&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="100%"/>
+<img alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="100%"/>
 </p>
+</details>
 
-## Top Repositories
+<details>
+<summary><h2>Top Repositories</h2></summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&theme=jolly&hide_border=false&show_owner=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/>
 </p>
+</details>
+
+<details>
+<summary><h2>Currently Working On</h2></summary>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/>
+</p>
+</details>
 
 ### You can find me on :)
 <a href="https://github.com/Kshitij07-Pro" target="blank"><img align="center" src="https://github.com/Kshitij07-Pro/Kshitij07-Pro/blob/main/Images/github.svg" height="40" width="40"/></a>
