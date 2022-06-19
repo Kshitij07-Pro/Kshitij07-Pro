@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%20Devs%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0)](https://github.com/kyechan99/capsule-render)
 
 <!--
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
 -->
 
-Hello there <img src="/Images/wave.gif" height="15px" width="15px"/>, My name is Kshitij and I’m 17 year old self taught coder from India who loves open source.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+17+years+old%20(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.&height=50&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000)](https://git.io/typing-svg)
 
-> 
+[![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat-square&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
 
 <details>
 <summary><h3>More about me</h3></summary>
@@ -39,9 +39,9 @@ Hello there <img src="/Images/wave.gif" height="15px" width="15px"/>, My name is
 <details>
 <summary><h2>My Github Stats</h2></summary>
 <p align="center">
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide_title=true&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="100%"/>
-<img alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="100%"/>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide_title=true&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="100%"/> </a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="blank"> <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&stroke=&date_format=d%20F%5B%2C%20Y%5D&type=svg" width="100%"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="100%"/> </a>
 </p>
 > NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 </details>
@@ -49,14 +49,14 @@ Hello there <img src="/Images/wave.gif" height="15px" width="15px"/>, My name is
 <details>
 <summary><h2>Top Repositories</h2></summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/>
+<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/> </a>
 </p>
 </details>
 
 <details>
 <summary><h2>Currently Working On</h2></summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/>
+<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/> </a>
 </p>
 </details>
 
@@ -68,14 +68,19 @@ Hello there <img src="/Images/wave.gif" height="15px" width="15px"/>, My name is
 <a href="https://steamcommunity.com/profiles/76561199166330915/" target="blank"><img alt="Steam" align="center" src="/Images/steam.svg" height="40" width="40"/></a>
 <a href="URL_REDIRECT" target="blank"><img alt="Discord" align="center" src="/Images/discord.svg" height="40" width="40"/></a>
 
-➥ Thank you for taking the time to ㅤㅤㅤview my GitHub Profile.
+➥ Thank you for taking the time to view my GitHub Profile.
 
 
 <!-- Resources
 https://github.com/kyechan99/capsule-render
-https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-<colour>
+https://github.com/DenverCoder1/readme-typing-svg
+https://fonts.google.com/
+https://github.com/ikatyang/emoji-cheat-sheet#hands
+https://marketing.istockphoto.com/blog/hex-colors-guide/
 https://github.com/jwenjian/visitor-badge
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="50" width="200"></a>
+https://github.com/Nathan13888/VisitorBadgeReloaded
+https://img.shields.io
+<a href="URL_REDIRECT" target="blank"> <img alt"ANY_TEXT" align="left/center/right" src="URL_TO_YOUR_IMAGE" height="50" width="200"> </a>
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/DenverCoder1/github-readme-streak-stats
 https://simpleicons.org/
