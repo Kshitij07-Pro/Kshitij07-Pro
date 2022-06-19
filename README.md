@@ -41,15 +41,10 @@
 Soon
 </details>
 
-<details>
-<summary><h2>My Github Stats</h2></summary>
+## Currently Working On
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide_title=true&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="100%"/> </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="blank"> <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&stroke=&date_format=d%20F%5B%2C%20Y%5D&type=svg" width="100%"/> </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="100%"/> </a>
+<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/> </a>
 </p>
-> NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
-</details>
 
 <details>
 <summary><h2>Top Repositories</h2></summary>
@@ -59,10 +54,13 @@ Soon
 </details>
 
 <details>
-<summary><h2>Currently Working On</h2></summary>
+<summary><h2>My Github Stats</h2></summary>
 <p align="center">
-<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="100%"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide_title=true&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="100%"/> </a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="blank"> <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&stroke=&date_format=d%20F%5B%2C%20Y%5D&type=svg" width="100%"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="100%"/> </a>
 </p>
+> NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 </details>
 
 ### You can find me on :)
