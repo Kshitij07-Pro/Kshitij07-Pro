@@ -12,8 +12,8 @@
 [![Laptop OS](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Laptop OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Mobile Browser](https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
-[![Laptop Browser](https://img.shields.io/badge/Browser-Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
-[![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698?style=flat&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/)
+[![Laptop Browser](https://img.shields.io/badge/Browser-Edge-0078D7?style=flat&logo=microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
+[![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698?style=flat&logo=tor-browser&logoColor=white)](https://www.torproject.org/)
 
 <details>
 <summary><h3>More about me</h3></summary>
@@ -37,8 +37,14 @@
 </details>
 
 <details>
-<summary><h2>Languages and Tools</h2></summary>
-Soon
+<summary><h2> Lame </h2></summary>
+<a href="https://code.visualstudio.com/" target="blank"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Editor-VS Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white"/> </a>
+<a href="https://www.python.org/" target="blank"> <img alt="Python" src="https://img.shields.io/badge/Language-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> </a>
+<a href="https://www.mysql.com/" target="blank"> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white" /> </a>
+<a href="https://www.heroku.com/" target="blank"> <img alt="Heroku" src="https://img.shields.io/badge/Hosting-Heroku-%23430098?style=flat-square&logo=heroku&logoColor=white" /> </a>
+<a href="URL_REDIRECT" target="blank"> <img alt="ANY_TEXT" src="URL_TO_YOUR_IMAGE" /> </a>
+<a href="URL_REDIRECT" target="blank"> <img alt="ANY_TEXT" src="URL_TO_YOUR_IMAGE" /> </a>
+<a href="URL_REDIRECT" target="blank"> <img alt="ANY_TEXT" src="URL_TO_YOUR_IMAGE" /> </a>
 </details>
 
 ## Currently Working On
