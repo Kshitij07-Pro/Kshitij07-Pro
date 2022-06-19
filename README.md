@@ -4,9 +4,16 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+17+years+old%20(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.&height=50&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+boy+(Single%F0%9F%8C%9D);I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000)](https://git.io/typing-svg)
 
 [![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat-square&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
+[![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-14-E34A86?style=flat-square&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
+[![Mobile OS](https://img.shields.io/badge/OS-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![Laptop OS](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Laptop OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Mobile Browser](https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
+[![Laptop Browser](https://img.shields.io/badge/Browser-Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
+[![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/)
 
 <details>
 <summary><h3>More about me</h3></summary>
@@ -16,7 +23,7 @@
 
 ➥ I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses:
 
-➥ List of my Favourite Top 5 Animes:-
+➥ My Top 5 Favourite Animes:-
 1. Your Lie in April
 2. Death Note
 3. Classroom of the Elite
@@ -29,12 +36,10 @@
 - There are 10 types of people in the world, those who get Binary and those who don't.
 </details>
 
-## Languages and Tools
-<a href="https://www.python.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
-<a href="https://www.mysql.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a>
-<a href="https://www.heroku.com" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="48" height="48"/> </a>
-<a href="https://www.postgresql.org" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> </a>
-<a href="https://www.mongodb.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+<details>
+<summary><h2>Languages and Tools</h2></summary>
+Soon
+</details>
 
 <details>
 <summary><h2>My Github Stats</h2></summary>
@@ -79,7 +84,8 @@ https://github.com/ikatyang/emoji-cheat-sheet#hands
 https://marketing.istockphoto.com/blog/hex-colors-guide/
 https://github.com/jwenjian/visitor-badge
 https://github.com/Nathan13888/VisitorBadgeReloaded
-https://img.shields.io
+https://shields.io/
+https://ileriayo.github.io/markdown-badges/
 <a href="URL_REDIRECT" target="blank"> <img alt"ANY_TEXT" align="left/center/right" src="URL_TO_YOUR_IMAGE" height="50" width="200"> </a>
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/DenverCoder1/github-readme-streak-stats
