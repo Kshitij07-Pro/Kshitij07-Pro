@@ -15,19 +15,16 @@
 [![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698.svg?style=flat&logo=tor-browser&logoColor=white)](https://www.torproject.org/)
 [![]()]()
 
-I love open source and I'm looking for collaboration on projects related to Telegram Bots.
+I love open source and I'm looking for collaboration on projects related to <b>Telegram Bots</b>.
 - Fun Facts: I've spent daayys making this ReadMe Profile
 > There are 10 types of people in world, those who get binary and those who don't.
 
 <details>
 <summary> <h3> More about me </h3> </summary>
-Pronoun: he/him
-
-I'm currently learning Python and Pyrogram
-
-My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD).
-
-I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses:
+<li> Pronoun: he/him </li>
+<li> I'm currently learning Python and <b>Pyrogram</b> </li>
+<li> My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD). </li>
+<li> I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses: </li>
 
 ➥ My Top 5 Favourite Animes:-
 1. Your Lie in April
@@ -44,7 +41,7 @@ Languages I've learnt and tools I work with:-
 
 <a href="https://code.visualstudio.com/" target="blank"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Editor-VS Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" /> </a>
 <a href="https://www.python.org/" target="blank"> <img alt="Python" src="https://img.shields.io/badge/Language-Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" /> </a>
-<a href="https://pyrogram.org/" target="blank"> <img alt="Python Library" src="URL_TO_YOUR_IMAGE" /> </a>
+<a href="https://pyrogram.org/" target="blank"> <img alt="Python Library" src="https://docs.pyrogram.org/_static/pyrogram.png" width="13px"/> </a>
 <a href="https://www.mysql.com/" target="blank"> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> </a>
 <a href="https://www.heroku.com/" target="blank"> <img alt="Heroku" src="https://img.shields.io/badge/Hosting Platform-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" /> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="blank"> <img alt="Markdown" src="https://img.shields.io/badge/Markup Language-Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" /> </a>
@@ -97,16 +94,16 @@ I'm interested in learning at some point:-
 ### You can find me on :)
 [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitij07-Pro)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xitij2049)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijbestfootballer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kshitij07)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kshitij2049/)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white)]()
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199166330915/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/kshitij2049/)
 [![Epic Games](https://img.shields.io/badge/EpicGames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199166330915/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
 [![TV Time](https://custom-icon-badges.herokuapp.com/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
 
