@@ -67,13 +67,13 @@ I'm interested in learning at some point:-
 
 ## Currently Working on
 <p align="center">
-<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" /> </a>
+<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="70%" /> </a>
 </p>
 
 <details>
 <summary> <h2> Top Repositories </h2> </summary>
 <p align="center">
-<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="49.5%"/> </a> <a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="49.5%"/> </a>
+<a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="49%"/> </a> <a href="https://github.com/Kshitij07-Pro/ErzaScarlet" target="blank"> <img alt="Erza Scarlet" src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitij07-Pro&repo=ErzaScarlet&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false&show_owner=true" width="49%"/> </a>
 </p>
 </details>
 
@@ -81,14 +81,15 @@ I'm interested in learning at some point:-
 <summary> <h2> My Github Stats </h2> </summary>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kshitij07-Pro&theme=jolly&hide_border=false&hide_title=true&hide=issues&show_icons=true&count_private=true&include_all_commits=true" width="70%"/> </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="blank"> <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&stroke=&date_format=d%20F%5B%2C%20Y%5D&type=svg" width="49.5%"/> </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="49.5%"/> </a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="blank"> <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij07-Pro&theme=jolly&hide_border=false&stroke=&date_format=d%20F%5B%2C%20Y%5D&type=svg" width="49%"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij07-Pro&theme=jolly&hide_border=false&exclude_repo=TorToolkitX-deployed,slam-before-qbit&langs_count=6&layout=compact" width="49%"/> </a>
 </p>
 > NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 </details>
 
 ### You can find me on :)
 [![Github](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitij07-Pro)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xitij2049)
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Steam](https://img.shields.io/badge/steam-%23000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199166330915/)
