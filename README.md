@@ -1,5 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0)](https://github.com/kyechan99/capsule-render)
 
+
+<An anime GIF>
 <!--
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
 -->
@@ -16,12 +18,11 @@
 [![]()]()
 
 I love open source and I'm looking for collaboration on projects related to <b>Telegram Bots</b>.
-- Fun Facts: I've spent daayys making this ReadMe Profile
+- Fun Facts: It took me days making this ReadMe Profile while hearing music.
 > There are 10 types of people in world, those who get binary and those who don't.
 
 <details>
 <summary> <h3> More about me </h3> </summary>
-<li> Pronoun: he/him </li>
 <li> I'm currently learning Python and <b>Pyrogram</b> </li>
 <li> My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD). </li>
 <li> I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses: </li>
@@ -35,7 +36,7 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 </details>
 
 <details>
-<summary> <h2> Languages and Tools </h2> </summary>
+<summary> <h2> Knowledge </h2> </summary>
 
 Languages I've learnt and tools I work with:-
 
@@ -108,6 +109,7 @@ I'm interested in learning at some point:-
 [![TV Time](https://custom-icon-badges.herokuapp.com/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
 
 ➥ Thank you for taking the time to view my GitHub Profile.
+<A Bye anime GIF>
 
 
 <!-- Resources
