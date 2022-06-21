@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0)](https://github.com/kyechan99/capsule-render)
+# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0)](https://github.com/kyechan99/capsule-render)
 
 
 <An anime GIF>
@@ -45,7 +45,10 @@ Languages I've learnt and tools I work with:-
 <a href="https://pyrogram.org/" target="blank"> <img alt="Python Library" src="https://docs.pyrogram.org/_static/pyrogram.png" width="13px"/> </a>
 <a href="https://www.mysql.com/" target="blank"> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> </a>
 <a href="https://www.heroku.com/" target="blank"> <img alt="Heroku" src="https://img.shields.io/badge/Hosting Platform-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" /> </a>
+<a href="https://en.m.wikipedia.org/wiki/Shell_script" target="blank"> <img alt="Shell Script" src="https://img.shields.io/badge/Executable%20Program-Shell%20Script-%23121011.svg?style=flat-square &logo=gnu-bash&logoColor=white" /> </a>
+<a href="https://git-scm.com/" target="blank"> <img alt="Git" src="https://img.shields.io/badge/Version%20Control-Git-%23F05033.svg?style=flat-square &logo=git&logoColor=white" /> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="blank"> <img alt="Markdown" src="https://img.shields.io/badge/Markup Language-Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" /> </a>
+<a href="https://www.cloudflare.com/" target="blank"> <img alt="Cloudflare" src="https://img.shields.io/badge/Proxy & Hosting-Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white" /> </a>
 
 I'm interested in learning at some point:-
 
@@ -59,14 +62,10 @@ I'm interested in learning at some point:-
 <a href="https://www.docker.com/" target="blank"> <img alt="Docker" src="https://img.shields.io/badge/Platform-Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" /> </a>
 <a href="https://www.postgresql.org/" target="blank"> <img alt="PostgreSQL" src="https://img.shields.io/badge/Database-PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" /> </a>
 <a href="https://www.mongodb.com/" target="blank"> <img alt="MongoDB" src="https://img.shields.io/badge/Database-MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" /> </a>
-<a href="https://www.php.net/" target="blank"> <img alt="php" src="https://img.shields.io/badge/Scripting Lang-php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" /> </a>
-<a href="https://reactjs.org/" target="blank"> <img alt="ReactJS" src="https://img.shields.io/badge/JavaScript Library-React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /> </a>
-<a href="https://nodejs.org/" target="blank"> <img alt="Node.JS" src="https://img.shields.io/badge/Runtime Environment-Node.JS-6DA55F.svg?style=flat-square&logo=node.js&logoColor=white" /> </a>
 <a href="https://aws.amazon.com/" target="blank"> <img alt="Amazon AWS" src="https://img.shields.io/badge/Cloud Computing-AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> </a>
 <a href="https://azure.microsoft.com/" target="blank"> <img alt="Microsoft Azure" src="https://img.shields.io/badge/Cloud Computing-Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" /> </a>
 <a href="https://www.digitalocean.com/" target="blank"> <img alt="Digital Ocean" src="https://img.shields.io/badge/Cloud Computing-DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" /> </a>
 <a href="https://cloud.google.com/" target="blank"> <img alt="GoogleCloud" src="https://img.shields.io/badge/Cloud Computing Services-GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" /> </a>
-<a href="https://www.cloudflare.com/" target="blank"> <img alt="Cloudflare" src="https://img.shields.io/badge/Proxy & Hosting-Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white" /> </a>
 
 </details>
 
@@ -108,8 +107,8 @@ I'm interested in learning at some point:-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
 [![TV Time](https://custom-icon-badges.herokuapp.com/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
 
-➥ Thank you for taking the time to view my GitHub Profile.
-<A Bye anime GIF>
+#### Thank you for taking the time to view my GitHub Profile.
+![](https://c.tenor.com/vgS3-AbN_cEAAAAC/naruto-uzumaki-anime.gif)
 
 
 <!-- Resources
