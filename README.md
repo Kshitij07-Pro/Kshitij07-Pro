@@ -43,8 +43,10 @@ Languages I've learnt and tools I work with:-
 <a href="https://code.visualstudio.com/" target="blank"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Editor-VS Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" /> </a>
 <a href="https://www.python.org/" target="blank"> <img alt="Python" src="https://img.shields.io/badge/Language-Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" /> </a>
 <a href="https://pyrogram.org/" target="blank"> <img alt="Python Library" src="https://docs.pyrogram.org/_static/pyrogram.png" width="13px"/> </a>
+<a href="https://aka.ms/terminal" target="blank"> <img alt="Windows Terminal" src="https://img.shields.io/badge/Terminal%20Emulator-Windows%20Termimal-black.svg?style=flat-square&logo=windowsterminal&logoColor=white" /> </a>
 <a href="https://www.mysql.com/" target="blank"> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> </a>
 <a href="https://www.heroku.com/" target="blank"> <img alt="Heroku" src="https://img.shields.io/badge/Hosting Platform-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" /> </a>
+<a href="https://www.json.org/" target="blank"> <img alt="JSON" src="https://img.shields.io/badge/Data%20Interchange%20Format-JSON-black.svg?style=flat-square&logo=json&logoColor=white" /> </a>
 <a href="https://en.m.wikipedia.org/wiki/Shell_script" target="blank"> <img alt="Shell Script" src="https://img.shields.io/badge/Executable%20Program-Shell%20Script-%23121011.svg?style=flat-square &logo=gnu-bash&logoColor=white" /> </a>
 <a href="https://git-scm.com/" target="blank"> <img alt="Git" src="https://img.shields.io/badge/Version%20Control-Git-%23F05033.svg?style=flat-square &logo=git&logoColor=white" /> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="blank"> <img alt="Markdown" src="https://img.shields.io/badge/Markup Language-Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" /> </a>
@@ -66,7 +68,7 @@ I'm interested in learning at some point:-
 <a href="https://azure.microsoft.com/" target="blank"> <img alt="Microsoft Azure" src="https://img.shields.io/badge/Cloud Computing-Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" /> </a>
 <a href="https://www.digitalocean.com/" target="blank"> <img alt="Digital Ocean" src="https://img.shields.io/badge/Cloud Computing-DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" /> </a>
 <a href="https://cloud.google.com/" target="blank"> <img alt="GoogleCloud" src="https://img.shields.io/badge/Cloud Computing Services-GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" /> </a>
-
+<a href="https://wordpress.com/" target="blank"> <img alt="Word Press" src="https://img.shields.io/badge/Designing%20Software-Word%20Press-blue.svg?style=flat-square&logo=wordpress&logoColor=white" /> </a>
 </details>
 
 ## Currently Working on
@@ -105,7 +107,7 @@ I'm interested in learning at some point:-
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/kshitij2049/)
 [![Epic Games](https://img.shields.io/badge/EpicGames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)]()
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
-[![TV Time](https://custom-icon-badges.herokuapp.com/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
+[![TV Time](https://img.shields.io/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
 
 #### Thank you for taking the time to view my GitHub Profile.
 ![](https://c.tenor.com/vgS3-AbN_cEAAAAC/naruto-uzumaki-anime.gif)
