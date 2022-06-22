@@ -96,7 +96,7 @@ I'm interested in learning at some point:-
 ### You can find me on :)
 [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitij07-Pro)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xitij2049)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-kumar-392a40242)
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijbestfootballer@gmail.com)
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
