@@ -29,10 +29,10 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 
 ➥ My Top 5 Favourite Animes:-
 1. Your Lie in April
-2. Death Note
-3. Classroom of the Elite
-4. Rascal doesn't Dream of Bunny Girl Senpai
-5. Demon Slayer
+2. Naruto
+3. Death Note
+4. Violet Evergarden
+5. Rascal doesn't Dream of Bunny Girl Senpai 
 </details>
 
 <details>
@@ -111,7 +111,7 @@ I'm interested in learning at some point:-
 
 #### Thank you for taking the time to view my GitHub Profile.
 ![](https://c.tenor.com/vgS3-AbN_cEAAAAC/naruto-uzumaki-anime.gif)
-![](/GIFs/mp4.mp4)
+
 
 <!-- Resources
 [![ANY_TEXT](URL_TO_YOUR_IMAGE)](URL_REDIRECT)
