@@ -31,8 +31,8 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 1. Your Lie in April
 2. Naruto
 3. Death Note
-4. Violet Evergarden
-5. Rascal doesn't Dream of Bunny Girl Senpai 
+4. Rascal doesn't Dream of Bunny Girl Senpai 
+5. Violet Evergarden
 </details>
 
 <details>
