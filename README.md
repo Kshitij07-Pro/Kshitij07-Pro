@@ -94,15 +94,14 @@ I'm interested in learning at some point:-
 </details>
 
 ### You can find me on :)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xitij2049)
 [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitij07-Pro)
-[![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kshitij07)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xitij2049)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19410441)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
+[![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kshitij07)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kshitij07)
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-kumar-392a40242)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kshitij2049)
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/kshitij2049)
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199166330915)
