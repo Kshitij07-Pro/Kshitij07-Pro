@@ -47,8 +47,8 @@ Languages I've learnt and tools I work with:-
 <a href="https://www.mysql.com/" target="blank"> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> </a>
 <a href="https://www.heroku.com/" target="blank"> <img alt="Heroku" src="https://img.shields.io/badge/Hosting Platform-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" /> </a>
 <a href="https://www.json.org/" target="blank"> <img alt="JSON" src="https://img.shields.io/badge/Data%20Interchange%20Format-JSON-black.svg?style=flat-square&logo=json&logoColor=white" /> </a>
-<a href="https://en.m.wikipedia.org/wiki/Shell_script" target="blank"> <img alt="Shell Script" src="https://img.shields.io/badge/Executable%20Program-Shell%20Script-%23121011.svg?style=flat-square &logo=gnu-bash&logoColor=white" /> </a>
-<a href="https://git-scm.com/" target="blank"> <img alt="Git" src="https://img.shields.io/badge/Version%20Control-Git-%23F05033.svg?style=flat-square &logo=git&logoColor=white" /> </a>
+<a href="https://en.m.wikipedia.org/wiki/Shell_script" target="blank"> <img alt="Shell Script" src="https://img.shields.io/badge/Executable%20Program-Shell%20Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" /> </a>
+<a href="https://git-scm.com/" target="blank"> <img alt="Git" src="https://img.shields.io/badge/Version%20Control-Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="blank"> <img alt="Markdown" src="https://img.shields.io/badge/Markup Language-Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" /> </a>
 <a href="https://www.cloudflare.com/" target="blank"> <img alt="Cloudflare" src="https://img.shields.io/badge/Proxy & Hosting-Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white" /> </a>
 
