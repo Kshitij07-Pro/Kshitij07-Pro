@@ -1,21 +1,21 @@
-# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0)](https://github.com/kyechan99/capsule-render)
-
-
-<An anime GIF>
-<!--
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
--->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000)](https://git.io/typing-svg)
+#
+<p align="center">
+<a href="https://github.com/kyechan99/capsule-render" target="blank"> <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0" width="100%"> </a>
+<a href="" target="blank"> <img alt="Naruto Uzumaki GIF" src="/GIFs/Welcome.gif" width="100%" height="100%"> </a>
+<a href="https://git.io/typing-svg" target="blank"> <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000" width="100%"> </a>
+</p>
 
 [![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
-[![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-14-E34A86.svg?style=flat&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
+[![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-16-E34A86.svg?style=flat&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
 [![Mobile OS](https://img.shields.io/badge/OS-Android-3DDC84.svg?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 [![Laptop OS](https://img.shields.io/badge/OS-Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Laptop OS](https://img.shields.io/badge/OS-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Mobile Browser](https://img.shields.io/badge/Browser-Chrome-4285F4.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
 [![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698.svg?style=flat&logo=tor-browser&logoColor=white)](https://www.torproject.org/)
 [![]()]()
+<!--
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
+-->
 
 I love open source and I'm looking for collaboration on projects related to <b>Telegram Bots</b>.
 - Fun Facts: It took me days making this ReadMe Profile while hearing music.
@@ -23,6 +23,7 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 
 <details>
 <summary> <h3> More about me </h3> </summary>
+<a href="" target="blank"> <img alt="Love GIF" src="/GIFs/Love.gif" width="100%" height="100%"> </a>
 <li> I'm currently learning Python and <b>Pyrogram</b> </li>
 <li> My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD). </li>
 <li> I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses: </li>
@@ -47,8 +48,8 @@ Languages I've learnt and tools I work with:-
 <a href="https://www.mysql.com/" target="blank"> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> </a>
 <a href="https://www.heroku.com/" target="blank"> <img alt="Heroku" src="https://img.shields.io/badge/Hosting Platform-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" /> </a>
 <a href="https://www.json.org/" target="blank"> <img alt="JSON" src="https://img.shields.io/badge/Data%20Interchange%20Format-JSON-black.svg?style=flat-square&logo=json&logoColor=white" /> </a>
-<a href="https://en.m.wikipedia.org/wiki/Shell_script" target="blank"> <img alt="Shell Script" src="https://img.shields.io/badge/Executable%20Program-Shell%20Script-%23121011.svg?style=flat-square &logo=gnu-bash&logoColor=white" /> </a>
-<a href="https://git-scm.com/" target="blank"> <img alt="Git" src="https://img.shields.io/badge/Version%20Control-Git-%23F05033.svg?style=flat-square &logo=git&logoColor=white" /> </a>
+<a href="https://en.m.wikipedia.org/wiki/Shell_script" target="blank"> <img alt="Shell Script" src="https://img.shields.io/badge/Executable%20Program-Shell%20Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" /> </a>
+<a href="https://git-scm.com/" target="blank"> <img alt="Git" src="https://img.shields.io/badge/Version%20Control-Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="blank"> <img alt="Markdown" src="https://img.shields.io/badge/Markup Language-Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" /> </a>
 <a href="https://www.cloudflare.com/" target="blank"> <img alt="Cloudflare" src="https://img.shields.io/badge/Proxy & Hosting-Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white" /> </a>
 
@@ -97,24 +98,23 @@ I'm interested in learning at some point:-
 [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitij07-Pro)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xitij2049)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19410441)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 [![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kshitij07)
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-kumar-392a40242)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijbestfootballer@gmail.com)
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kshitij2049)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kshitij07)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199166330915)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-kumar-392a40242)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kshitij2049)
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/kshitij2049)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199166330915)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijbestfootballer@gmail.com)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white)]()
 [![Epic Games](https://img.shields.io/badge/EpicGames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)]()
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
 [![TV Time](https://img.shields.io/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
 
 #### Thank you for taking the time to view my GitHub Profile.
-![](https://c.tenor.com/vgS3-AbN_cEAAAAC/naruto-uzumaki-anime.gif)
 
+<a href="" target="blank"> <img alt="Marin Kitagawa GIF" src="/GIFs/Bye.gif" width="100%" height="100%"> </a>
 
 <!-- Resources
 [![ANY_TEXT](URL_TO_YOUR_IMAGE)](URL_REDIRECT)
