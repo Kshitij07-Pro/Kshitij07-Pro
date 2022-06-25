@@ -103,7 +103,7 @@ I'm interested in learning at some point:-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kshitij2049)
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij2049)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/kshitij2049)
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199166330915)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijbestfootballer@gmail.com)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white)]()
@@ -112,8 +112,10 @@ I'm interested in learning at some point:-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
 
 #### Thank you for taking the time to view my GitHub Profile.
-![](https://c.tenor.com/vgS3-AbN_cEAAAAC/naruto-uzumaki-anime.gif)
 
+<video width="320" height="240" autoplay muted>
+  <src="/../main/GIFs/Naruto.mp4" type="video/mp4" />
+</video>
 
 <!-- Resources
 [![ANY_TEXT](URL_TO_YOUR_IMAGE)](URL_REDIRECT)
