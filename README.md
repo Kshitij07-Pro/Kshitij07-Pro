@@ -116,9 +116,9 @@ I'm interested in learning at some point:-
 [![TV Time](https://img.shields.io/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
 
-<h3 align="center"> Thank you for taking the time to view my GitHub Profile. </h3>
+<h4 align="center"> Thank you for taking the time to view my GitHub Profile. </h4>
 <p align="center">
-<a href="" target="blank"> <img alt="Bye GIF" src="/GIFs/Bye.gif" width="60%"> </a>
+<a href="" target="blank"> <img alt="Bye GIF" src="/GIFs/Bye.gif"> </a>
 </p>
 
 <!-- Resources
