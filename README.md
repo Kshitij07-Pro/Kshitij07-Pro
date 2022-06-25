@@ -1,8 +1,8 @@
 #
 <p align="center">
 <a href="https://github.com/kyechan99/capsule-render" target="blank"> <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0" width="100%"> </a>
-<a href="" target="blank"> <img alt="Naruto Uzumaki GIF" src="/GIFs/Welcome.gif" width="100%" height="100%"> </a>
-<a href="https://git.io/typing-svg" target="blank"> <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000" width="100%"> </a>
+<a href="https://git.io/typing-svg" target="blank"> <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000" width="65%"> </a>
+<a href="" target="blank"> <img alt="Welcome GIF" src="/GIFs/Welcome.gif" width="50%"> </a>
 </p>
 
 [![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
@@ -23,11 +23,13 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 
 <details>
 <summary> <h3> More about me </h3> </summary>
-<a href="" target="blank"> <img alt="Love GIF" src="/GIFs/Love.gif" width="100%" height="100%"> </a>
+
 <li> I'm currently learning Python and <b>Pyrogram</b> </li>
 <li> My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD). </li>
 <li> I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses: </li>
 
+<a href="" target="blank"> <img alt="Love GIF" src="/GIFs/Love.gif" align="right"> </a>
+- 
 ➥ My Top 5 Favourite Animes:-
 1. Your Lie in April
 2. Naruto
@@ -54,6 +56,8 @@ Languages I've learnt and tools I work with:-
 <a href="https://www.cloudflare.com/" target="blank"> <img alt="Cloudflare" src="https://img.shields.io/badge/Proxy & Hosting-Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white" /> </a>
 
 I'm interested in learning at some point:-
+
+<a href="" target="blank"> <img alt="Shy GIF" src="/GIFs/Shy.gif" align="right"> </a>
 
 <a href="https://graphql.org/" target="blank"> <img alt="GraphQL" src="https://img.shields.io/badge/Manipulation Lang for APIs-GraphQL-E10098.svg?style=flat-square&logo=graphql&logoColor=white" /> </a>
 <a href="https://www.djangoproject.com/" target="blank"> <img alt="Django" src="https://img.shields.io/badge/Python Web Framework-Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" /> </a>
@@ -94,7 +98,7 @@ I'm interested in learning at some point:-
 > NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 </details>
 
-### You can find me on :)
+## You can find me on :)
 [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitij07-Pro)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xitij2049)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19410441)
@@ -112,9 +116,10 @@ I'm interested in learning at some point:-
 [![TV Time](https://img.shields.io/badge/TV%20Time-yellow.svg?style=for-the-badge&logo=tvtime&logoColor=white)](https://tvtime.com/r/2oTAf)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t3np92csq1f2866dt6zjjm0b3?si=qa6HGMw3RGaxxMO9u5sxLQ&utm_source=copy-link)
 
-#### Thank you for taking the time to view my GitHub Profile.
-
-<a href="" target="blank"> <img alt="Marin Kitagawa GIF" src="/GIFs/Bye.gif" width="100%" height="100%"> </a>
+<h3 align="center"> Thank you for taking the time to view my GitHub Profile. </h3>
+<p align="center">
+<a href="" target="blank"> <img alt="Bye GIF" src="/GIFs/Bye.gif" width="60%"> </a>
+</p>
 
 <!-- Resources
 [![ANY_TEXT](URL_TO_YOUR_IMAGE)](URL_REDIRECT)
