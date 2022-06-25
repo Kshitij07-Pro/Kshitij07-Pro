@@ -1,21 +1,21 @@
-# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0)](https://github.com/kyechan99/capsule-render)
-
-
-<An anime GIF>
-<!--
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
--->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000)](https://git.io/typing-svg)
+#
+<p align="center">
+<a href="https://github.com/kyechan99/capsule-render" target="blank"> <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0" width="100%"> </a>
+<a href="" target="blank"> <img alt="Naruto Uzumaki GIF" src="/GIFs/Welcome.gif" width="100%" height="100%"> </a>
+<a href="https://git.io/typing-svg" target="blank"> <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000" width="100%"> </a>
+</p>
 
 [![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
-[![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-14-E34A86.svg?style=flat&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
+[![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-16-E34A86.svg?style=flat&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
 [![Mobile OS](https://img.shields.io/badge/OS-Android-3DDC84.svg?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 [![Laptop OS](https://img.shields.io/badge/OS-Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Laptop OS](https://img.shields.io/badge/OS-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Mobile Browser](https://img.shields.io/badge/Browser-Chrome-4285F4.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
 [![Laptop Browser](https://img.shields.io/badge/Browser-Tor-7D4698.svg?style=flat&logo=tor-browser&logoColor=white)](https://www.torproject.org/)
 [![]()]()
+<!--
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
+-->
 
 I love open source and I'm looking for collaboration on projects related to <b>Telegram Bots</b>.
 - Fun Facts: It took me days making this ReadMe Profile while hearing music.
@@ -23,6 +23,7 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 
 <details>
 <summary> <h3> More about me </h3> </summary>
+<a href="" target="blank"> <img alt="Love GIF" src="/GIFs/Love.gif" width="100%" height="100%"> </a>
 <li> I'm currently learning Python and <b>Pyrogram</b> </li>
 <li> My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD). </li>
 <li> I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses: </li>
@@ -113,9 +114,7 @@ I'm interested in learning at some point:-
 
 #### Thank you for taking the time to view my GitHub Profile.
 
-<video width="320" height="240" autoplay muted>
-  <src="/../main/GIFs/Naruto.mp4" type="video/mp4" />
-</video>
+<a href="" target="blank"> <img alt="Marin Kitagawa GIF" src="/GIFs/Bye.gif" width="100%" height="100%"> </a>
 
 <!-- Resources
 [![ANY_TEXT](URL_TO_YOUR_IMAGE)](URL_REDIRECT)
