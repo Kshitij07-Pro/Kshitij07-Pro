@@ -23,11 +23,12 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 
 <details>
 <summary> <h3> More about me </h3> </summary>
-<a href="" target="blank"> <img alt="Love GIF" src="/GIFs/Love.gif" width="100%" height="100%"> </a>
+
 <li> I'm currently learning Python and <b>Pyrogram</b> </li>
 <li> My hobbies are Coding, Watching Anime, Gaming and Playing Football (Neighbour Champion XD). </li>
 <li> I'm special because; My first line of code wasn't "Hello World!" XD Jokes aside, my speciality is that I can solve 7 different type of Cubes. :sunglasses: </li>
 
+<a href="" target="blank"> <img alt="Love GIF" src="/GIFs/Love.gif" align="right"> </a>
 ➥ My Top 5 Favourite Animes:-
 1. Your Lie in April
 2. Naruto
