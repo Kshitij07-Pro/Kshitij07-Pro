@@ -7,6 +7,7 @@
 
 [![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
 [![Repos](https://custom-icon-badges.herokuapp.com/badge/Repos-16-E34A86.svg?style=flat&logoColor=white&logo=repo)](https://github.com/Kshitij07-Pro?tab=repositories)
+[![Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 [![Mobile OS](https://img.shields.io/badge/OS-Android-3DDC84.svg?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 [![Laptop OS](https://img.shields.io/badge/OS-Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Laptop OS](https://img.shields.io/badge/OS-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
