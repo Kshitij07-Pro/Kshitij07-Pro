@@ -58,7 +58,7 @@ Languages I've learnt and tools I work with:-
 
 I'm interested in learning at some point:-
 
-<a href="" target="blank"> <img alt="Shy GIF" src="/GIFs/Shy.gif" align="right" width="80%"> </a>
+<a href="" target="blank"> <img alt="Shy GIF" src="/GIFs/Shy.gif" align="right" width="70%"> </a>
 
 <a href="https://graphql.org/" target="blank"> <img alt="GraphQL" src="https://img.shields.io/badge/Manipulation Lang for APIs-GraphQL-E10098.svg?style=flat-square&logo=graphql&logoColor=white" /> </a>
 <a href="https://www.djangoproject.com/" target="blank"> <img alt="Django" src="https://img.shields.io/badge/Python Web Framework-Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" /> </a>
