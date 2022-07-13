@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/kyechan99/capsule-render" target="blank"> <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&section=footer&reversal=false&height=250&text=Howdy%21&textBg=false&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=55&desc=Welcome%20to%20my%20GitHub%20Profile%20OwO%2E&descSize=25&descAlign=50&descAlignY=70&rotate=0&stroke=000000&strokeWidth=0" width="100%"> </a>
 <a href="https://git.io/typing-svg" target="blank"> <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there%2C+my+name+is+Kshitij.;I'm+a+17+years+old+(Single%F0%9F%8C%9D)+boy.;I'm+a+self+taught+coder+from+India.;Fancy+seeing+you+here...&height=40&width=400&size=20&font=Arima+Madurai&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&duration=5000" width="65%"> </a>
-<a href="" target="blank"> <img alt="Welcome GIF" src="/GIFs/Welcome.gif" width="50%"> </a>
+<a href="" target="blank"> <img alt="Welcome GIF" src="/GIFs/Welcome.gif" width="70%"> </a>
 </p>
 
 [![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kshitij07-Pro.Kshitij07-Pro&color=800080&lcolor=808080&style=flat&text=Views&logo=github&logoColor=FFFFFF&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
