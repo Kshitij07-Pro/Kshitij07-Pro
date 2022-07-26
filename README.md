@@ -33,10 +33,10 @@ I love open source and I'm looking for collaboration on projects related to <b>T
 - 
 ➥ My Top 5 Favourite Animes:-
 1. Your Lie in April
-2. Naruto
-3. Classroom of the Elite
-4. Hyouka
-5. Rascal doesn't Dream of Bunny Girl Senpai 
+2. Code Geass
+3. Naruto
+4. Classroom of the Elite
+5. Hyouka 
 </details>
 
 <details>
